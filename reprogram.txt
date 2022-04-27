@@ -1,0 +1,14 @@
+Nama : Andi 
+Banyak mata kuliah : 3
+Mata kuliah 1 : Alpro
+Tugas : 80
+UTS   : 90
+UAS   : 85
+Mata kuliah 2 : Matdis
+Tugas : 90
+UTS   : 88
+UAS   : 92
+Mata kuliah 3 : Alin
+Tugas : 95
+UTS   : 85
+UAS   : 90
